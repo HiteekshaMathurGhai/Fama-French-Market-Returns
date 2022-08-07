@@ -6,3 +6,5 @@ The aim is to replicate market return time series on the Kenneth French website:
 
 For both the equal and value weighted time series, I have calculated the follwoing moments using risk-free rate of return:
 annualized return, annualized volatility, annualized Sharpe ratio, skewness, and excess kurtosis.
+
+Lastly, I compared the time series with the one on the Kenneth French website - calculated the correlation and maximum absolute difference between the two time series.
